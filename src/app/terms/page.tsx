@@ -1,3 +1,4 @@
+﻿// Cache bust: 961330159
 export default function TermsOfServicePage() {
   return (
     <div className="min-h-screen">
@@ -42,7 +43,7 @@ export default function TermsOfServicePage() {
               <div className="rounded-lg bg-gray-50 dark:bg-white/[0.03] border border-gray-200 dark:border-white/10 p-4 space-y-1.5">
                 <p><span className="font-semibold text-gray-700 dark:text-gray-300">Legal Name:</span> AMOHA Mobiles</p>
                 <p><span className="font-semibold text-gray-700 dark:text-gray-300">Business Type:</span> Sole Proprietorship / Private Limited Company</p>
-                <p><span className="font-semibold text-gray-700 dark:text-gray-300">Registered Address:</span> MG Road, Mumbai, Maharashtra – 400 001, India</p>
+                <p><span className="font-semibold text-gray-700 dark:text-gray-300">Registered Address:</span> MG Road, Mumbai, Maharashtra â€“ 400 001, India</p>
                 <p><span className="font-semibold text-gray-700 dark:text-gray-300">GST Registration No.:</span> 27AABCA1234Q1ZX</p>
                 <p><span className="font-semibold text-gray-700 dark:text-gray-300">Email:</span> legal@amoha.in</p>
                 <p><span className="font-semibold text-gray-700 dark:text-gray-300">Phone:</span> +91 98765 43210</p>
@@ -119,7 +120,7 @@ export default function TermsOfServicePage() {
                 <li>We reserve the right to cancel any order due to stock unavailability, pricing errors, suspected fraud, or inability to deliver to your location.</li>
                 <li>You may cancel an order before it is marked as <strong className="text-gray-700 dark:text-gray-200">&quot;Shipped&quot;</strong> through your account under My Orders.</li>
                 <li>Orders cancelled after dispatch will be treated as returns and are subject to our Return Policy.</li>
-                <li>Full refund will be issued for any order cancelled by us within 5–7 business days via the original payment method.</li>
+                <li>Full refund will be issued for any order cancelled by us within 5â€“7 business days via the original payment method.</li>
               </ul>
             </section>
 
@@ -135,53 +136,53 @@ export default function TermsOfServicePage() {
 
                 {/* Domestic */}
                 <div>
-                  <h3 className="text-sm font-bold text-gray-800 dark:text-gray-100 mb-3">🇮🇳 Domestic Payment Methods (India)</h3>
+                  <h3 className="text-sm font-bold text-gray-800 dark:text-gray-100 mb-3">ðŸ‡®ðŸ‡³ Domestic Payment Methods (India)</h3>
                   <div className="grid gap-3 sm:grid-cols-2">
 
                     <div className="rounded-lg border border-gray-200 dark:border-white/10 p-3.5">
                       <p className="text-xs font-bold text-gray-700 dark:text-gray-200 mb-1.5">UPI (Unified Payments Interface)</p>
                       <p className="text-xs">Instant, real-time payments via:</p>
-                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">PhonePe · Google Pay (GPay) · Paytm · BHIM · Amazon Pay · Cred Pay · iMobile Pay · SuperMoney · NAVI · Juspay</p>
-                      <p className="mt-1.5 text-xs text-primary-500">Free · Instant · Refunds in 2–3 business days</p>
+                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">PhonePe Â· Google Pay (GPay) Â· Paytm Â· BHIM Â· Amazon Pay Â· Cred Pay Â· iMobile Pay Â· SuperMoney Â· NAVI Â· Juspay</p>
+                      <p className="mt-1.5 text-xs text-primary-500">Free Â· Instant Â· Refunds in 2â€“3 business days</p>
                     </div>
 
                     <div className="rounded-lg border border-gray-200 dark:border-white/10 p-3.5">
                       <p className="text-xs font-bold text-gray-700 dark:text-gray-200 mb-1.5">Credit Cards</p>
-                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">Visa · Mastercard · American Express · Diners Club · RuPay Credit Card · HDFC · ICICI · Axis · SBI · Kotak · Yes Bank</p>
+                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">Visa Â· Mastercard Â· American Express Â· Diners Club Â· RuPay Credit Card Â· HDFC Â· ICICI Â· Axis Â· SBI Â· Kotak Â· Yes Bank</p>
                       <p className="mt-1.5 text-xs text-primary-500">3D Secure authentication applied on all transactions</p>
                     </div>
 
                     <div className="rounded-lg border border-gray-200 dark:border-white/10 p-3.5">
                       <p className="text-xs font-bold text-gray-700 dark:text-gray-200 mb-1.5">Debit Cards</p>
-                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">Visa Debit · Mastercard Debit · RuPay Debit · Maestro · All major Indian bank debit cards — SBI, HDFC, ICICI, Axis, PNB, Bank of Baroda, Canara Bank &amp; more</p>
+                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">Visa Debit Â· Mastercard Debit Â· RuPay Debit Â· Maestro Â· All major Indian bank debit cards â€” SBI, HDFC, ICICI, Axis, PNB, Bank of Baroda, Canara Bank &amp; more</p>
                       <p className="mt-1.5 text-xs text-primary-500">OTP / 3D Secure authentication required</p>
                     </div>
 
                     <div className="rounded-lg border border-gray-200 dark:border-white/10 p-3.5">
                       <p className="text-xs font-bold text-gray-700 dark:text-gray-200 mb-1.5">Net Banking</p>
-                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">50+ supported banks including HDFC · SBI · ICICI · Axis · Kotak Mahindra · Yes Bank · IndusInd · IDFC First · Federal Bank · UCO Bank · RBL Bank and more</p>
+                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">50+ supported banks including HDFC Â· SBI Â· ICICI Â· Axis Â· Kotak Mahindra Â· Yes Bank Â· IndusInd Â· IDFC First Â· Federal Bank Â· UCO Bank Â· RBL Bank and more</p>
                     </div>
 
                     <div className="rounded-lg border border-gray-200 dark:border-white/10 p-3.5">
                       <p className="text-xs font-bold text-gray-700 dark:text-gray-200 mb-1.5">Mobile Wallets</p>
-                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">Paytm Wallet · PhonePe Wallet · Amazon Pay Wallet · Freecharge · Mobikwik · Airtel Money · JioMoney · Ola Money</p>
+                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">Paytm Wallet Â· PhonePe Wallet Â· Amazon Pay Wallet Â· Freecharge Â· Mobikwik Â· Airtel Money Â· JioMoney Â· Ola Money</p>
                     </div>
 
                     <div className="rounded-lg border border-gray-200 dark:border-white/10 p-3.5">
                       <p className="text-xs font-bold text-gray-700 dark:text-gray-200 mb-1.5">EMI Options</p>
-                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">Credit Card EMI (3 / 6 / 9 / 12 / 18 / 24 months) · Debit Card EMI · Cardless EMI via ZestMoney · EarlySalary · Flexmoney</p>
+                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">Credit Card EMI (3 / 6 / 9 / 12 / 18 / 24 months) Â· Debit Card EMI Â· Cardless EMI via ZestMoney Â· EarlySalary Â· Flexmoney</p>
                       <p className="mt-1.5 text-xs text-amber-500">Interest rates and eligibility depend on your bank or NBFC.</p>
                     </div>
 
                     <div className="rounded-lg border border-gray-200 dark:border-white/10 p-3.5">
                       <p className="text-xs font-bold text-gray-700 dark:text-gray-200 mb-1.5">Buy Now, Pay Later (BNPL)</p>
-                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">LazyPay · Simpl · ICICI PayLater · Kotak Pay Later · Ola Money Postpaid · Amazon Pay Later · FlexiPay</p>
+                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">LazyPay Â· Simpl Â· ICICI PayLater Â· Kotak Pay Later Â· Ola Money Postpaid Â· Amazon Pay Later Â· FlexiPay</p>
                     </div>
 
                     <div className="rounded-lg border border-gray-200 dark:border-white/10 p-3.5">
                       <p className="text-xs font-bold text-gray-700 dark:text-gray-200 mb-1.5">Cash on Delivery (COD)</p>
-                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">Available for orders up to <strong>₹50,000</strong> within serviceable PIN codes. Exact cash required at delivery. COD availability varies by location and order value.</p>
-                      <p className="mt-1.5 text-xs text-amber-500">A COD convenience fee of ₹49 may apply on orders below ₹999.</p>
+                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">Available for orders up to <strong>â‚¹50,000</strong> within serviceable PIN codes. Exact cash required at delivery. COD availability varies by location and order value.</p>
+                      <p className="mt-1.5 text-xs text-amber-500">A COD convenience fee of â‚¹49 may apply on orders below â‚¹999.</p>
                     </div>
 
                   </div>
@@ -189,12 +190,12 @@ export default function TermsOfServicePage() {
 
                 {/* International */}
                 <div>
-                  <h3 className="text-sm font-bold text-gray-800 dark:text-gray-100 mb-3">🌍 International Payment Methods</h3>
+                  <h3 className="text-sm font-bold text-gray-800 dark:text-gray-100 mb-3">ðŸŒ International Payment Methods</h3>
                   <div className="grid gap-3 sm:grid-cols-2">
 
                     <div className="rounded-lg border border-gray-200 dark:border-white/10 p-3.5">
                       <p className="text-xs font-bold text-gray-700 dark:text-gray-200 mb-1.5">International Credit / Debit Cards</p>
-                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">Visa · Mastercard · American Express (Amex) · Diners Club International · UnionPay (China) · JCB (Japan)</p>
+                      <p className="mt-1 text-xs text-gray-600 dark:text-gray-300">Visa Â· Mastercard Â· American Express (Amex) Â· Diners Club International Â· UnionPay (China) Â· JCB (Japan)</p>
                       <p className="mt-1.5 text-xs text-primary-500">Charged in INR. Your bank converts to your currency at the prevailing forex rate.</p>
                     </div>
 
@@ -234,7 +235,7 @@ export default function TermsOfServicePage() {
                     <li>We never store your full card number or CVV on our servers.</li>
                     <li>All payment data is tokenised and processed directly by Razorpay (PCI-DSS Level 1 certified).</li>
                     <li>All connections to the payment gateway use TLS 1.2+ encryption.</li>
-                    <li>In case of failed transactions, any debited amount is automatically refunded within 5–7 business days.</li>
+                    <li>In case of failed transactions, any debited amount is automatically refunded within 5â€“7 business days.</li>
                   </ul>
                 </div>
               </div>
@@ -279,7 +280,7 @@ export default function TermsOfServicePage() {
                 Intellectual Property
               </h2>
               <ul className="list-disc list-inside space-y-1.5">
-                <li>All content on this Platform — including text, images, logos, trade marks, product descriptions, software, and design — is the exclusive intellectual property of AMOHA Mobiles or its licensors and is protected under the Copyright Act, 1957 and Trade Marks Act, 1999.</li>
+                <li>All content on this Platform â€” including text, images, logos, trade marks, product descriptions, software, and design â€” is the exclusive intellectual property of AMOHA Mobiles or its licensors and is protected under the Copyright Act, 1957 and Trade Marks Act, 1999.</li>
                 <li>You may not reproduce, distribute, modify, display, or create derivative works of any content without our prior written consent.</li>
                 <li>Limited, non-exclusive, non-transferable license is granted for personal, non-commercial use of the Platform only.</li>
                 <li>Third-party brand names and logos are the property of their respective owners and are used for product identification only.</li>
@@ -337,9 +338,9 @@ export default function TermsOfServicePage() {
                 Dispute Resolution &amp; Arbitration
               </h2>
               <ul className="list-disc list-inside space-y-1.5">
-                <li><strong className="text-gray-700 dark:text-gray-200">Step 1 – Informal Resolution:</strong> Before initiating any formal legal proceedings, you agree to first contact us at <span className="text-primary-500">legal@amoha.in</span> to attempt to resolve the dispute amicably within <strong>30 days</strong>.</li>
-                <li><strong className="text-gray-700 dark:text-gray-200">Step 2 – Consumer Forum:</strong> If informal resolution fails, disputes relating to consumer rights may be escalated to the appropriate Consumer Disputes Redressal Commission under the Consumer Protection Act, 2019.</li>
-                <li><strong className="text-gray-700 dark:text-gray-200">Step 3 – Arbitration:</strong> For commercial disputes, both parties agree to binding arbitration under the Arbitration and Conciliation Act, 1996. The arbitration seat shall be Mumbai, Maharashtra, India. The arbitration shall be conducted in English.</li>
+                <li><strong className="text-gray-700 dark:text-gray-200">Step 1 â€“ Informal Resolution:</strong> Before initiating any formal legal proceedings, you agree to first contact us at <span className="text-primary-500">legal@amoha.in</span> to attempt to resolve the dispute amicably within <strong>30 days</strong>.</li>
+                <li><strong className="text-gray-700 dark:text-gray-200">Step 2 â€“ Consumer Forum:</strong> If informal resolution fails, disputes relating to consumer rights may be escalated to the appropriate Consumer Disputes Redressal Commission under the Consumer Protection Act, 2019.</li>
+                <li><strong className="text-gray-700 dark:text-gray-200">Step 3 â€“ Arbitration:</strong> For commercial disputes, both parties agree to binding arbitration under the Arbitration and Conciliation Act, 1996. The arbitration seat shall be Mumbai, Maharashtra, India. The arbitration shall be conducted in English.</li>
               </ul>
             </section>
 
@@ -364,7 +365,7 @@ export default function TermsOfServicePage() {
                 <li>Seek redressal against defective goods or deficient services.</li>
                 <li>File a complaint with the National Consumer Helpline (NCH) at <strong className="text-gray-700 dark:text-gray-200">1800-11-4000</strong> (Toll Free) or via <span className="text-primary-500">consumerhelpline.gov.in</span>.</li>
                 <li>File disputes on the Consumer Courts e-filing portal: <span className="text-primary-500">edaakhil.nic.in</span>.</li>
-                <li>Access our internal Grievance Redressal Mechanism — see Section 17 (Contact Us) below.</li>
+                <li>Access our internal Grievance Redressal Mechanism â€” see Section 17 (Contact Us) below.</li>
               </ul>
             </section>
 
@@ -396,8 +397,8 @@ export default function TermsOfServicePage() {
           <div className="rounded-lg bg-gray-50 dark:bg-white/[0.03] border border-gray-200 dark:border-white/10 p-4 space-y-2 text-sm">
             <p><span className="font-semibold text-gray-700 dark:text-gray-300">Grievance Officer:</span> <span className="text-gray-600 dark:text-gray-400">Mr. Amoha Kumar</span></p>
             <p><span className="font-semibold text-gray-700 dark:text-gray-300">Email:</span> <span className="text-primary-500">legal@amoha.in</span></p>
-            <p><span className="font-semibold text-gray-700 dark:text-gray-300">Phone:</span> <span className="text-primary-500">+91 98765 43210</span> (Mon–Sat, 10 AM – 6 PM IST)</p>
-            <p><span className="font-semibold text-gray-700 dark:text-gray-300">Address:</span> AMOHA Mobiles, MG Road, Mumbai, Maharashtra – 400 001, India</p>
+            <p><span className="font-semibold text-gray-700 dark:text-gray-300">Phone:</span> <span className="text-primary-500">+91 98765 43210</span> (Monâ€“Sat, 10 AM â€“ 6 PM IST)</p>
+            <p><span className="font-semibold text-gray-700 dark:text-gray-300">Address:</span> AMOHA Mobiles, MG Road, Mumbai, Maharashtra â€“ 400 001, India</p>
             <p className="text-xs text-gray-400 dark:text-gray-500 mt-2">We will acknowledge your complaint within 48 hours and resolve it within 30 days as required by law.</p>
           </div>
         </div>
@@ -406,3 +407,4 @@ export default function TermsOfServicePage() {
     </div>
   );
 }
+
